@@ -58,7 +58,8 @@ The Smart Energy Meter System is an IoT-based project designed to monitor and ma
 4) Configure Zapier to receive alerts and notifications from your Adafruit IO account.
 
 
-##Usage
+## Usage
+
 1) Connect the hardware components as per the provided schematics (add schematics or wiring instructions to the repository).
 
 2) Power up the system and ensure it's connected to the internet.
@@ -68,7 +69,7 @@ The Smart Energy Meter System is an IoT-based project designed to monitor and ma
 4) Customize and set up automated alerts and notifications using Zapier.
 
 
-##Data Visualization
+## Data Visualization
 You can analyze and visualize energy consumption data through the Adafruit IO dashboard, providing valuable insights into usage patterns and trends.
 
 
@@ -83,7 +84,7 @@ Contributions to this project are welcome! If you'd like to contribute, please f
 6) Create a pull request to the main repository's main branch.
 
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
