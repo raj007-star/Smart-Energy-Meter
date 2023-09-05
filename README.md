@@ -1,6 +1,7 @@
 # Smart Energy Meter System
 
 ![Smart Energy Meter](https://github.com/raj007-star/Weather-Station-/assets/83889037/2d3ac3fd-e50d-4d6a-8e79-28933a4e6a4e)
+(https://github.com/raj007-star/Weather-Station-/assets/83889037/0d84d486-19b9-4f09-b554-dac1eff8b85b)
 
 ## Table of Contents
 - [Overview](#overview)
